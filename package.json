@@ -1,0 +1,22 @@
+{
+  "name": "cse185s-presentation",
+  "version": "1.0.0",
+  "description": "Material for CSE 185S oral presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamsantosa/cse185s-presentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamsantosa/cse185s-presentation/issues"
+  },
+  "homepage": "https://github.com/williamsantosa/cse185s-presentation#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
